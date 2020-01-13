@@ -1,0 +1,4 @@
+ASCII (American Standard Code for Information Interchange, 美国信息交换标准代码)：
+	7bit表示一个字符，共计可以表示128（2的七次方）种字符；
+ISO-8859-1：
+	8bit表示一个字符 即用一个字节（byte）（8bit）表示一个字符，共计可以表示256个字符，它相当于对ASCII的扩展，所以对于ASCII是兼容的；
